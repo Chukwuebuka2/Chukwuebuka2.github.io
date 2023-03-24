@@ -1,2 +1,2 @@
 <h1>Great LinkedIn Learning Courses</h1>
-theme: Slate
+remote_theme: Slate
